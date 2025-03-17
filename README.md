@@ -1,10 +1,7 @@
-- 👋 Hi, I’m Shivam Kulshrestha
-- 👀 I’m interested in doing research in High Energy physics..
-- 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on GitHub 
-- 📫 How to reach me shivamkulsh96@gmail.com
-https://www.linkedin.com/in/shivam-kulshrestha-4a6041109
-<!---
-Shivamkulshrestha30/Shivamkulshrestha30 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m Shivam Kulshrestha, a researcher transitioning into Data Science.
+👀 I’m passionate about analyzing complex scientific data and applying Machine Learning to real-world problems.
+🌱 I’m currently enhancing my skills in data science, statistical modeling, and AI applications.
+💡 My experience includes Python, statistical data analysis, and experimental research in high-energy physics.
+💞️ I’m open to collaborating on AI/ML projects and exploring opportunities in research-driven industries.
+📫 Feel free to reach me at shivamkulsh96@gmail.com
+
